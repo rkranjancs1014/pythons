@@ -1,3 +1,4 @@
+#give change back for a note(make change algo)
 coins = [1, 2, 3]
 def number_Of_Ways(target):
     if (target < 0):
