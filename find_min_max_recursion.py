@@ -1,3 +1,4 @@
+#find min max using recursion
 def find_min_max(seq, left, right):
     if len(seq) == 0:
         return
