@@ -1,0 +1,1 @@
+S= ArrayStsack() Q = ArrayStack() flag = True while(not S.is_empty() and flag): ele = S.pop() if ele == search: flag = False Q.enqueue(ele) while( not Q.is_empty()): for i in range(Q.len() -1): ele = Q.dequeue() Q.enqueue(ele) ele = Q.dequeue() S.push(ele)
