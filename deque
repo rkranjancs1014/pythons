@@ -1,0 +1,11 @@
+A = ArrayStack()
+B = ArrayStack()
+
+add_first(e):
+    A.push(e)
+add_last(e):
+    B.push(e)
+remove_first(e):
+    A.pop()
+remove_last(e):
+    B.pop()
