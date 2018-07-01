@@ -1,0 +1,5 @@
+Alice should put an even number in Q and all other in R. The chance that Bob picks S is 0.5, where Alice must win.
+
+The chance that Bob pocks T is also 0.5, where Alice wins at the chance of 49/99 (49 even integers out of 99 overall integers).
+
+This gives her 0.5*(1+49/99) = 74/99 chance of winning
